@@ -1,0 +1,34 @@
+[
+  {
+    "id": "u-owner",
+    "username": "admin",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "role": "owner",
+    "name": "Master Admin",
+    "createdAt": "2026-05-21T16:39:53.037Z"
+  },
+  {
+    "id": "u-editor",
+    "username": "editor",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "role": "editor",
+    "name": "Review Editor Nishantha",
+    "createdAt": "2026-05-21T16:39:53.039Z"
+  },
+  {
+    "id": "u-author",
+    "username": "author",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "role": "author",
+    "name": "Dr. K. L. Wickramasinghe",
+    "createdAt": "2026-05-21T16:39:53.039Z"
+  },
+  {
+    "id": "u-reader",
+    "username": "reader",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "role": "reader",
+    "name": "Reader Anuradha",
+    "createdAt": "2026-05-21T16:39:53.039Z"
+  }
+]

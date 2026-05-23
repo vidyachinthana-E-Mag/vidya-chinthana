@@ -1,0 +1,78 @@
+[
+  {
+    "id": "prof-wickramasinghe",
+    "slug": "dr-wickramasinghe",
+    "userId": "u-author",
+    "nameEn": "Dr. K. L. Wickramasinghe",
+    "nameSi": "ආචාර්ය කේ. එල්. වික්‍රමසිංහ",
+    "titleEn": "Quantum Physicist & Science Columnist",
+    "titleSi": "ක්වොන්ටම් භෞතික විද්‍යාඥ සහ විද්‍යා ලේඛක",
+    "bioEn": "Dr. Wickramasinghe writes on quantum foundations, computing horizons, and bilingual science communication for Sri Lankan readers.",
+    "bioSi": "ආචාර්ය වික්‍රමසිංහ ක්වොන්ටම් පදනම සහ ද්විභාෂා විද්‍යා සන්නිවේදනය පිළිබඳ ලියනව.",
+    "avatarUrl": "",
+    "coverUrl": "",
+    "expertise": [
+      "Quantum Physics",
+      "Science Writing",
+      "Bilingual Publishing"
+    ],
+    "locationEn": "Colombo, Sri Lanka",
+    "locationSi": "කොළඹ, ශ්‍රී ලංකාව",
+    "featured": true,
+    "social": {
+      "email": "wickramasinghe@vidya.lk",
+      "twitter": "",
+      "website": ""
+    }
+  },
+  {
+    "id": "prof-anura",
+    "slug": "prof-anura-ilangasingha",
+    "nameEn": "Prof. Anura Ilangasingha",
+    "nameSi": "ප්‍රොෆ. අනුර ඉලංගසිංහ",
+    "titleEn": "Education & Policy Researcher",
+    "titleSi": "අධ්‍යාපන සහ ප්‍රතිපත්ති පර්යේෂක",
+    "bioEn": "Long-form analysis on education systems and national science policy.",
+    "bioSi": "අධ්‍යාපන පද්ධති සහ ජාතික විද්‍යා ප්‍රතිපත්ති පිළිබධ විශ්ලේෂණ.",
+    "avatarUrl": "",
+    "coverUrl": "",
+    "expertise": [
+      "Education",
+      "Policy",
+      "Research"
+    ],
+    "locationEn": "Kandy, Sri Lanka",
+    "locationSi": "මහනුවර, ශ්‍රී ලංකාව",
+    "featured": true,
+    "social": {
+      "email": "",
+      "twitter": "",
+      "website": ""
+    }
+  },
+  {
+    "id": "auth-senaka",
+    "slug": "senaka-perera",
+    "nameEn": "Author Senaka",
+    "nameSi": "ලේඛක සේනක",
+    "titleEn": "Sci-Fi & Technology Editor",
+    "titleSi": "Sci-Fi සහ තාක්ෂණ සංස්කාරක",
+    "bioEn": "Speculative futures, AI ethics, and narrative technology journalism.",
+    "bioSi": "අනාගත තාක්ෂණය, AI ආචාරධර්මය සහ කතාන්දර ලේඛන.",
+    "avatarUrl": "",
+    "coverUrl": "",
+    "expertise": [
+      "Sci-Fi",
+      "Technology",
+      "Ethics"
+    ],
+    "locationEn": "Galle, Sri Lanka",
+    "locationSi": "ගාල්ල, ශ්‍රී ලංකාව",
+    "featured": false,
+    "social": {
+      "email": "",
+      "twitter": "",
+      "website": ""
+    }
+  }
+]

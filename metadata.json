@@ -1,0 +1,6 @@
+{
+  "name": "Vidya Chinthana",
+  "description": "Bilingual digital science and sci-fi magazine with advanced reading modes, custom editorial CMS, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

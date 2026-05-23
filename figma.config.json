@@ -1,0 +1,14 @@
+{
+  "codeConnect": {
+    "include": ["src/**/*.figma.ts"],
+    "parser": "react",
+    "paths": {
+      "src/components/ui/*": "src/components/ui",
+      "src/components/profile/*": "src/components/profile"
+    },
+    "importPaths": {
+      "src/components/ui/*": "@/src/components/ui",
+      "src/components/profile/*": "@/src/components/profile"
+    }
+  }
+}

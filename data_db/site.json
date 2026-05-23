@@ -1,0 +1,157 @@
+{
+  "version": 5,
+  "updatedAt": "2026-05-23T05:53:13.534Z",
+  "themePreset": "editorial-blue",
+  "branding": {
+    "siteNameEn": "Vidya Chinthana",
+    "siteNameSi": "විද්‍යා චින්තන",
+    "taglineEn": "Premium Science Magazine",
+    "taglineSi": "විශේෂාංග විද්‍යා සඟරාව"
+  },
+  "theme": {
+    "accent": "#0077ed",
+    "accentSoft": "#5ac8fa",
+    "accentAlt": "#30d158",
+    "paper": "#fbfbfd",
+    "paperDark": "#000000",
+    "ink": "#1d1d1f",
+    "neon": "#0077ed",
+    "grid": "rgba(0, 0, 0, 0.04)",
+    "glow": "rgba(0, 119, 237, 0.25)",
+    "fontDisplay": "Instrument Serif"
+  },
+  "typography": {
+    "display": "\"Fraunces\", \"Instrument Serif\", Georgia, serif",
+    "body": "\"Newsreader\", \"Lora\", Georgia, serif",
+    "ui": "\"Outfit\", system-ui, sans-serif",
+    "article": "\"Newsreader\", \"Lora\", Georgia, serif"
+  },
+  "effects": {
+    "scanlines": false,
+    "gridOverlay": false,
+    "neonGlow": false,
+    "reducedMotion": false
+  },
+  "hero": {
+    "badgeEn": "Issue 01 — Now Reading",
+    "badgeSi": "කලාප 01 — දැන් කියවන්න",
+    "headlineEn": "Science, beautifully told.",
+    "headlineSi": "විද්‍යාව, අලංකාර ලෙස කියවීමට.",
+    "subheadEn": "A world-class bilingual digital magazine for Sri Lanka — rigorous reporting, immersive reading, and editorial craft.",
+    "subheadSi": "ශ්‍රී ලංකාව සඳහා ලෝක මට්ටමේ ද්විභාෂා ඩිජිටල් සඟරාව — නිරවුලු වාර්තා, ගැඹුරු කියවීම්, සංස්කාරක ශිල්පය.",
+    "showSearch": true,
+    "backgroundStyle": "mesh"
+  },
+  "homeSections": {
+    "showStats": true,
+    "showContinueReading": true,
+    "showBookmarks": true,
+    "showIssuesSidebar": true,
+    "showAnnouncement": true,
+    "order": [
+      "announcement",
+      "hero",
+      "stats",
+      "continue",
+      "bookmarks",
+      "issues",
+      "articles"
+    ]
+  },
+  "announcement": {
+    "enabled": true,
+    "messageEn": "New issue online — quantum foundations & CRISPR horizons",
+    "messageSi": "නව කලාපය — ක්වොන්ටම් පදනම සහ CRISPR දිගුව",
+    "link": ""
+  },
+  "footer": {
+    "textEn": "Crafted for curious minds across Sri Lanka and the world.",
+    "textSi": "ශ්‍රී ලංකාව සහ ලෝකය පුරා උනන්දු මනස් සඳහා නිර්මාණය කළ."
+  },
+  "navItems": [
+    {
+      "id": "n1",
+      "page": "home",
+      "labelEn": "Home",
+      "labelSi": "මුල් පිටුව",
+      "visible": true
+    },
+    {
+      "id": "n2",
+      "page": "articles",
+      "labelEn": "Articles",
+      "labelSi": "ලිපි",
+      "visible": true
+    },
+    {
+      "id": "n3",
+      "page": "authors",
+      "labelEn": "Authors",
+      "labelSi": "ලේඛකයින්",
+      "visible": true
+    },
+    {
+      "id": "n4",
+      "page": "about",
+      "labelEn": "About",
+      "labelSi": "අප ගැන",
+      "visible": true
+    }
+  ],
+  "customPages": [],
+  "about": {
+    "titleEn": "Our mission",
+    "titleSi": "අපේ මෙහෙවර",
+    "bodyEn": "Vidya Chinthana brings editorial excellence to science communication in English and Sinhala — a reading experience designed to rival the world's finest digital publications.",
+    "bodySi": "විද්‍යා චින්තන ඉංග්‍රීසි සහ සිංහලෙන් විද්‍යා සන්නිවේදනයට සංස්කාරක ගුණාත්මකභාවය ගෙන එයි — ලෝකේ හොඳම ඩිජිටල් ප්‍රකාශනවලට සමාන කියවීම් අත්දැකීමක්."
+  },
+  "admin": {
+    "seo": {
+      "titleEn": "Vidya Chinthana | Premium Science Magazine",
+      "titleSi": "විද්‍යා චින්තන | විශේෂාංග විද්‍යා සඟරාව",
+      "descriptionEn": "Bilingual digital science magazine for Sri Lanka — articles, issues, and immersive reading in English and Sinhala.",
+      "descriptionSi": "ශ්‍රී ලංකාව සඳහා ද්විභාෂා ඩිජිටල් විද්‍යා සඟරාව — ඉංග්‍රීසි සහ සිංහල ලිපි.",
+      "keywords": "science, sri lanka, sinhala, magazine, education, technology,sci-fi,life,maths",
+      "ogImageUrl": "/icon.svg",
+      "canonicalUrl": ""
+    },
+    "features": {
+      "maintenanceMode": false,
+      "maintenanceMessageEn": "We are upgrading the experience. Back shortly.",
+      "maintenanceMessageSi": "අපි අත්දැකීම වැඩිදියුණු කරමින් සිටිමු. ඉක්මනින් නැවත.",
+      "allowRegistration": true,
+      "defaultLanguage": "BILINGUAL",
+      "lockTheme": null,
+      "showPlatformStats": true,
+      "enableReaderComments": true,
+      "enableBookmarks": true
+    },
+    "media": {
+      "logoUrl": "",
+      "faviconUrl": "",
+      "heroImageUrl": ""
+    },
+    "social": {
+      "contactEmail": "sggraphics2009@gmail.com",
+      "twitter": "",
+      "facebook": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "reader": {
+      "defaultView": "scroll",
+      "defaultFontScale": 100,
+      "showReadingTime": true,
+      "enableGlossary": true
+    },
+    "analytics": {
+      "googleAnalyticsId": "",
+      "plausibleDomain": ""
+    },
+    "advanced": {
+      "customCss": "",
+      "announcementDismissible": true,
+      "navSticky": true
+    }
+  }
+}

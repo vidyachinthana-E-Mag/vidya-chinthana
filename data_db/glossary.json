@@ -1,0 +1,72 @@
+[
+  {
+    "term": "Superposition",
+    "termSi": "සුපිරි පිහිටීම",
+    "definitionEn": "A fundamental principle of quantum mechanics where a physical system exists in multiple states or configurations simultaneously until an active measurement forces it into a single state.",
+    "definitionSi": "භෞතික පද්ධතියක් මැනීමට ලක්කරන තෙක් එය එකවර විය හැකි සියලුම තත්ත්වයන්ගේ එකතුවක් ලෙස පැවතීමේ ක්වොන්ටම් යාන්ත්‍ර විද්‍යාත්මක මූලධර්මයයි.",
+    "category": "physics"
+  },
+  {
+    "term": "Entanglement",
+    "termSi": "ක්වොන්ටම් වෙලීම",
+    "definitionEn": "A quantum phenomenon where two or more particles become mutually intertwined so that the physical state of one instantly defines the state of the other, regardless of local physical distance.",
+    "definitionSi": "අංශු දෙකක් හෝ කිහිපයක් එකිනෙකට කෙතරම් සම්බන්ධ වන්නේද යත්, ඔවුන් අතර දුර කෙතෙක් වුවද එකම අංශුවක් මත සිදු කරන මැනීමක් අනෙක් අංශුවේ ස්වභාවය ක්ෂණිකව තීරණය කෙරෙන අද්භූත සංසිද්ධියකි.",
+    "category": "physics"
+  },
+  {
+    "term": "Qubits",
+    "termSi": "කීව්බිට්ස්",
+    "definitionEn": "Quantum bits; the basic structural unit of quantum computing information, representing a 0, a 1, or any custom superposition state of both simultaneously.",
+    "definitionSi": "ක්වොන්ටම් පරිගණක තොරතුරු සැකසුමේ මූලික ඒකකයයි. සාම්ප්‍රදායික 0 හෝ 1 වෙනුවට මේ දෙකම එකවර නිරූපණය වන සුපිරි පිහිටීමක් පැවතිය හැක.",
+    "category": "computing"
+  },
+  {
+    "term": "CRISPR-Cas9",
+    "termSi": "ක්‍රිස්පර් කස්-9",
+    "definitionEn": "A scientific molecular technology adapted from bacterial genetic defense mechanisms that enables precision DNA edits, splicing, or replacements within living organism tissues.",
+    "definitionSi": "බැක්ටීරියාවන්ගෙන් තෝරාගත්, සජීවී සෛල දාමයන්හි නිශ්චිත ස්ථාන කපා ජාන සැකසීමට ලක්කළ හැකි සුවිශේෂී ජීව-විද්‍යාත්මක අණුක කතුරු තාක්ෂණයයි.",
+    "category": "genetics"
+  },
+  {
+    "term": "Regolith",
+    "termSi": "රෙගොලිත්",
+    "definitionEn": "The superficial mantle of loose rocky debris, dirt, and dust overlying solid bedrock, particularly referencing Martian or Lunar surface soils used to construct space shields.",
+    "definitionSi": "ඝන පාෂාණ තට්ටුවලට ඉහළින් පවතින ලිහිල් පස්, වැලි සහ දූවිලි තට්ටුවයි. විශේෂයෙන් අඟහරු සහ සඳ මත පවතින පස මින් අදහස් කෙරේ.",
+    "category": "space"
+  },
+  {
+    "term": "Somatic Cells",
+    "termSi": "කායික සෛල",
+    "definitionEn": "Any biological cell forming the body of a multicellular organism, excluding reproductive cells. Edits made here are not passed to offspring.",
+    "definitionSi": "බහුසෛලික ජීවියෙකුගේ ප්‍රජනන සෛල හැර ශරීරය සෑදෙන සාමාන්‍ය දේහ සෛල වේ. මේවායේ සිදුකරන ප්‍රවේණික වෙනස්කම් ඉන්පසු පරම්පරාවට උරුම නොවේ.",
+    "category": "genetics"
+  },
+  {
+    "term": "Germline Cells",
+    "termSi": "ප්‍රජනක සෛල",
+    "definitionEn": "Reproductive cells (sperm or egg gametes) that pass genomic DNA down to subsequent generations. Editing these creates permanent inherited variations.",
+    "definitionSi": "මීළඟ පරම්පරාවන් වෙත ජානමය උරුමයන් රැගෙන යන බීජ හෝ ප්‍රජනක සෛල (ශුක්‍රාණු හෝ ඩිම්බ) වේ. මේවා සංස්කරණය කළහොත් වෙනස්වීම් ස්ථිරවම උරුම වේ.",
+    "category": "genetics"
+  },
+  {
+    "term": "Shor's Algorithm",
+    "termSi": "ෂෝර්ගේ ඇල්ගොරිතම",
+    "definitionEn": "A highly acclaimed quantum mathematical algorithm engineered to crack prime factorizations of extreme numbers, posing a direct threat to RSA web cryptography.",
+    "definitionSi": "ඉතා වේගයෙන් විශාල සංඛ්‍යා ප්‍රථමක සාධකවලට වෙන් කිරීමට නිර්මාණය කරන ලද ක්වොන්ටම් ඇල්ගොරිතමයකි. මෙය සාම්ප්‍රදායික අන්තර්ජාල ආරක්ෂණ ක්‍රම බිඳ හෙලීමට සමත් වේ.",
+    "category": "computing"
+  },
+  {
+    "term": "Von Neumann Bottleneck",
+    "termSi": "වොන් නියුමන් බාධාව",
+    "definitionEn": "A systemic latency constraint in computer architecture where data throughput is restricted because processing logic cores and memory are physically separated.",
+    "definitionSi": "සාම්ප්‍රදායික පරිගණක ප්‍රොසෙසරයේ (processing core) සහ මතක ගබඩාවේ (memory cache) වෙන්වීම හේතුවෙන් නිරන්තර දත්ත හුවමාරුවේදී සිදුවන කාලය සහ ශක්තිය නිරර්ථක වීමයි.",
+    "category": "computing"
+  },
+  {
+    "term": "Neuromorphic",
+    "termSi": "නියුරෝමෝර්ෆික්",
+    "definitionEn": "Microchip designs containing physical circuits modeled closely on biological synapses and organic human brain neurological architecture for real-time edge intelligence.",
+    "definitionSi": "මිනිස් මොළයේ ඇති නියුරෝන සම්බන්ධතා සහ ස්නායුක ජාල ව්‍යුහය අනුකරණය කරමින් නිපදවනු ලබන ක්ෂුද්‍ර පරිපථ හා සිලිකන් චිප්ස් වේ.",
+    "category": "computing"
+  }
+]

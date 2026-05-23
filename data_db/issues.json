@@ -1,0 +1,32 @@
+[
+  {
+    "id": "issue-1",
+    "titleEn": "Cosmic Whispers & Quantum Foundations",
+    "titleSi": "කොස්මික් රාවය සහ ක්වොන්ටම් පදනම",
+    "volume": 1,
+    "number": 1,
+    "publishedAt": "May 2026",
+    "coverImage": "",
+    "descriptionEn": "Exploring the depth of quantum physical interactions, gene structures, and the blueprint for humanity’s expansion to outer worlds.",
+    "descriptionSi": "ක්වොන්ටම් භෞතික අන්තර්ක්‍රියා, ජාන ව්‍යුහයන් සහ මිනිසාගේ අභ්‍යවකාශ ගවේෂණයේ සැලසුම් පිළිබඳ ගැඹුරු විවරණයක්.",
+    "articleIds": [
+      "art-1",
+      "art-2",
+      "art-3"
+    ]
+  },
+  {
+    "id": "issue-2",
+    "titleEn": "The AI Horizon & Synthetic Biology",
+    "titleSi": "කෘතිම බුද්ධියේ ක්ෂිතිජය සහ කෘතිම ජීව විද්‍යාව",
+    "volume": 1,
+    "number": 2,
+    "publishedAt": "July 2026",
+    "coverImage": "",
+    "descriptionEn": "Unmasking the synergy between machine neuro-networks and organic genomic alterations shaping tomorrow’s technologies.",
+    "descriptionSi": "හෙට දින තාක්ෂණය හැඩගස්වන කෘතිම ස්නායුක ජාල සහ කාබනික ජානමය වෙනස්වීම් අතර සහජීවනය ගවේෂණය කිරීම.",
+    "articleIds": [
+      "art-4"
+    ]
+  }
+]
